@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**Saifalikhan21/Saifalikhan21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### Hello i am SAIF ALI KHAN, from Pakisan :pakistan: 👋
 @website : UnderWorking...
 
@@ -14,12 +9,12 @@
 
 - 📫 How to reach me:  
 
-- - :octocat: Github              => :link:	https://github.com/developer-junaid/
-- - :large_blue_circle: Facebook: => :link:	https://www.facebook.com/profile.php?id=100041078220896
-- - :purple_circle: LinkedIn:     => :link:	https://www.linkedin.com/in/developer-junaid
+- - :octocat: Github              => :link:	https://github.com/Saifalikhan21
+- - :large_blue_circle: Facebook: => :link:	https://www.facebook.com/nehasaif/
+- - :purple_circle: LinkedIn:     => :link:	https://www.linkedin.com/in/saif-ali-khan-b5b127172/
 
 - - :red_car:	TESLA HOME PAGE   => :link:	http://tesla-elon.surge.sh/
 - - :couple:	TINDER CLONE => :link:	http://tindererr-winter.surge.sh/
 - - :email:	 WHATSAPP CLONE => :link:	http://whatsapp-create.surge.sh/
 
--->
+
