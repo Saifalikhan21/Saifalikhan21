@@ -1,10 +1,10 @@
 ### Hello i am SAIF ALI KHAN, from Pakisan :pakistan: 👋
-@website : UnderWorking...
+@website : UnderWork...
 
-- :classical_building: Final Year CS Student at DHA SUFFA UNIVERSITY
+- :classical_building: Final Year Computer Science Student
 
 - :heavy_check_mark: Learned "Front End Development using React"
-- 🌱 Learning "MERN Stack Web Application Development" .....
+-  Learning "FULL Stack Web Application Development" .....
 
 
 - 📫 How to reach me:  
