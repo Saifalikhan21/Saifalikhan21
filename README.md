@@ -13,7 +13,7 @@
 - - :large_blue_circle: Facebook: => :link:	https://www.facebook.com/nehasaif/
 - - :purple_circle: LinkedIn:     => :link:	https://www.linkedin.com/in/saif-ali-khan-b5b127172/
 
-- :technologist: PROJECTS:  
+- :technologist: PROJECTS:    
 
 - - :red_car:	TESLA HOME PAGE   => :link:	http://tesla-elon.surge.sh/   ||  :fearful: COVID APP  => :link:	http://corona-appx.surge.sh/              
 - - :couple:	TINDER CLONE => :link:	http://tindererr-winter.surge.sh/
