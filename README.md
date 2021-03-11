@@ -3,7 +3,7 @@
 
 - :classical_building: Computer Scientist
 
--   FULL Stack Web Application Developer
+-   Full Stack Web Application Developer
 
 - 📫 How to reach me:  
 
