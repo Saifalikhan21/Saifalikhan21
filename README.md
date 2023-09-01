@@ -1,17 +1,19 @@
-### Hello i am SAIF ALI KHAN, from Pakisan :pakistan: 👋
-@website : Underconstruction
+### Hey My name is Saif Ali Khan, Living In Ireland 🇮🇪: 👋
 
-- :classical_building: Computer Scientist
 
--   Full Stack Web Application Developer.
+- :classical_building: Co
+
+-  Data Scientist.
 
 - 📫 How to reach me:  
 
 - - :octocat: Github              => :link:	https://github.com/Saifalikhan21
-- - :large_blue_circle: Facebook: => :link:	https://www.facebook.com/nehasaif/
 - - :purple_circle: LinkedIn:     => :link:	https://www.linkedin.com/in/saif-ali-khan-b5b127172/
+ 
+   - :technologist: Data science / ML Projects :    
 
-- :technologist: PROJECTS:    
+
+- :technologist: APP DEVELOPMENT PROJECTS:    
 
 - - :red_car:	TESLA HOME PAGE   => :link:	http://tesla-elon.surge.sh/   ||  :fearful: COVID APP  => :link:	http://corona-appx.surge.sh/              
 - - :couple:	TINDER CLONE => :link:	http://tindererr-winter.surge.sh/   ||  :email: CHAT APP => :link: http://chat-appp16.surge.sh/ 
