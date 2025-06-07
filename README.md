@@ -1,7 +1,7 @@
 ### Hey My name is Saif Ali Khan, Living In Ireland 🇮🇪: 👋
 
 
-- :classical_building: Co
+- :classical_building: Dublin
 
 -  Data Scientist.
 
