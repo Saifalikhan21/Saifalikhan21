@@ -3,7 +3,7 @@
 
 - :classical_building: Dublin
 
--  Data Scientist.
+- cloud Engineer/ Devops/ Data Scientist
 
 - 📫 How to reach me:  
 
